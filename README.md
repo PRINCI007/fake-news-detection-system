@@ -38,7 +38,7 @@ A full-stack machine learning project that classifies news articles as **Fake** 
 
 ## ⚙️ System Architecture
 
-Frontend → Spring Boot → Flask API → ML Model → Response
+Frontend -> Spring Boot -> Flask API -> ML Model -> Response
 
 ---
 
