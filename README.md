@@ -122,7 +122,7 @@ http://localhost:8080/api/news/predict
 
 **Princi Sharma**
 
-GitHub: https://github.com/PRINCI007
+GitHub: https://github.com/PRINCI007<br>
 LinkedIn: https://linkedin.com/in/princi-sharma-4269aa340
 
 ---
