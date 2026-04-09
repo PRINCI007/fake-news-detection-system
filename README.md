@@ -44,11 +44,11 @@ Frontend -> Spring Boot -> Flask API -> ML Model -> Response
 
 ## 📂 Project Structure
 
-fake-news-detection-system/
-│
-├── backend-springboot/
-├── frontend/
-├── ml-model/
+fake-news-detection-system/<br>
+|<br>
+├── backend-springboot/<br>
+├── frontend/<br>
+├── ml-model/<br>
 └── README.md
 
 ---
